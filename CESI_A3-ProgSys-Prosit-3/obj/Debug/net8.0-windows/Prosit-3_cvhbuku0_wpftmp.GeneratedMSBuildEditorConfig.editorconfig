@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CESI_A3_ProgSys_Prosit_3
+build_property.ProjectDir = C:\Users\antoi\[01]_CESI\[03]_A3\[05]_Programmation_Système\[01]_Prosits\[03]_Prosit_3_Restructuration\[02]_Solution\CESI_A3-ProgSys-Prosit-3\CESI_A3-ProgSys-Prosit-3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,4 @@
+C:\Users\antoi\[01]_CESI\[03]_A3\[05]_Programmation_Système\[01]_Prosits\[03]_Prosit_3_Restructuration\[02]_Solution\CESI_A3-ProgSys-Prosit-3\CESI_A3-ProgSys-Prosit-3\obj\ARM64\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\antoi\[01]_CESI\[03]_A3\[05]_Programmation_Système\[01]_Prosits\[03]_Prosit_3_Restructuration\[02]_Solution\CESI_A3-ProgSys-Prosit-3\CESI_A3-ProgSys-Prosit-3\obj\ARM64\Debug\net8.0-windows\App.g.cs
+C:\Users\antoi\[01]_CESI\[03]_A3\[05]_Programmation_Système\[01]_Prosits\[03]_Prosit_3_Restructuration\[02]_Solution\CESI_A3-ProgSys-Prosit-3\CESI_A3-ProgSys-Prosit-3\obj\ARM64\Debug\net8.0-windows\CESI_A3-ProgSys-Prosit-3_MarkupCompile.cache
+C:\Users\antoi\[01]_CESI\[03]_A3\[05]_Programmation_Système\[01]_Prosits\[03]_Prosit_3_Restructuration\[02]_Solution\CESI_A3-ProgSys-Prosit-3\CESI_A3-ProgSys-Prosit-3\obj\ARM64\Debug\net8.0-windows\CESI_A3-ProgSys-Prosit-3_MarkupCompile.lref
